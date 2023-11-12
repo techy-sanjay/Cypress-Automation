@@ -1,0 +1,87 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1699761252988' stop='1699761672431'>
+    <name>My First Test</name>
+    <title>My First Test</title>
+    <test-cases>
+        <test-case start='1699761253068' status='passed' stop='1699761313623'>
+            <name>TestCase : 1 : Verify the ability to Switch to the list view display</name>
+            <title>TestCase : 1 : Verify the ability to Switch to the list view display</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1699761313727' status='passed' stop='1699761336167'>
+            <name>TestCase : 2 : Verify the ability to select the Category</name>
+            <title>TestCase : 2 : Verify the ability to select the Category</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1699761336534' status='passed' stop='1699761358013'>
+            <name>TestCase : 3 : Verify the ability to select the list view</name>
+            <title>TestCase : 3 : Verify the ability to select the list view</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1699761358104' status='passed' stop='1699761386164'>
+            <name>TestCase : 4 : Verify the ability to change the pagination limiter.</name>
+            <title>TestCase : 4 : Verify the ability to change the pagination limiter.</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1699761386323' status='passed' stop='1699761426085'>
+            <name>TestCase : 5 : Verify the ability to sorting</name>
+            <title>TestCase : 5 : Verify the ability to sorting</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1699761426191' status='passed' stop='1699761460114'>
+            <name>TestCase : 6 : Verify the able to click the size and colour</name>
+            <title>TestCase : 6 : Verify the able to click the size and colour</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1699761460210' status='passed' stop='1699761497169'>
+            <name>TestCase : 7 : Verify the able to addToCart</name>
+            <title>TestCase : 7 : Verify the able to addToCart</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1699761497255' status='passed' stop='1699761554265'>
+            <name>TestCase : 8 : Verify the able to update the Cart</name>
+            <title>TestCase : 8 : Verify the able to update the Cart</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1699761554391' status='passed' stop='1699761612194'>
+            <name>TestCase : 9 : Verify the able to Delete the Cart.</name>
+            <title>TestCase : 9 : Verify the able to Delete the Cart.</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1699761612317' status='passed' stop='1699761672428'>
+            <name>TestCase : 10 : Verify the able to Place the Order</name>
+            <title>TestCase : 10 : Verify the able to Place the Order</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>
